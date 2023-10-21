@@ -1,0 +1,42 @@
+*{
+    max-width: 400px;
+    max-height: 400px;
+}
+.heading{
+    font-size: 100px;
+    margin-left:140%;
+}
+fieldset{
+    border: transparent;
+    margin: 20%;
+    margin-left: 600px;
+    width: 310px;
+    height: 500px;
+    background-color: antiquewhite;
+    padding-top: 25px;
+   
+}
+button{
+    font-size: 25px;
+    margin: 2px;
+    width: 70px;
+    height: 60px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    
+}
+button:hover{
+    color: red;
+}
+input{
+    border: transparent;
+    width: 300px;
+    height: 40px;
+    margin-bottom: 10px;
+    font-size: 30px;
+    color: red;
+    border: 0px;
+    background-color: rgb(198, 195, 195);
+    
+}
